@@ -13,6 +13,7 @@ My achievements on online courses and other official stuff.
 - Serverless Architecture
 - Software Architecture From Developer to Architect
 - Cloud Native TwelveFactor Applications
+- Software Architecture Patterns for Developers
 
 
 ### Data Engineering, Science, Analytics & Governance 
