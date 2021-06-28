@@ -21,6 +21,7 @@ My achievements on online courses and other official stuff.
 - Privacy by Design Data Sharing
 - Learning Data Governance
 - Data Engineering Foundations
+- Data Science Foundations: Data Engineering
 
 
 ### Azure 
